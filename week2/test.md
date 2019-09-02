@@ -1,6 +1,7 @@
 ### 1、卷积神经网络的英文缩写是：  
- A.DNN B.CNN C.RNN D.Tanh
-** 答案：B**  
+ A.DNN B.CNN C.RNN D.Tanh  
+ 
+**答案：B**  
 A:深度神经网络（Deep Nerual Network）  
 B:卷积神经网络（Convolutional Neural Networks）  
 C：循环神经网络（Recurrent Neural Network）  
