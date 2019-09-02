@@ -1,6 +1,11 @@
 ### 1、卷积神经网络的英文缩写是：  
  A.DNN B.CNN C.RNN D.Tanh
-
+** 答案：B**  
+A:深度神经网络（Deep Nerual Network）  
+B:卷积神经网络（Convolutional Neural Networks）  
+C：循环神经网络（Recurrent Neural Network）
+D：Tanh(双曲正切函数），神经网络中激活函数的一种，取值范围在[-1 ,1]之间
+    
 ### 2、为什么计算机视觉任务优先考虑使用卷积神经网络：  
 A.全连接网络完全不能做计算机视觉任务   
 B.全连接网络理论在处理视觉任务时计算量很小  
