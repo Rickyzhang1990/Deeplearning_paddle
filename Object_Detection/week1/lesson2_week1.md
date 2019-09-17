@@ -9,7 +9,7 @@ SPP NET
 不需要进行resize   
 只需要进行一次CNN   
 缺点 多阶段；无法向后传播  
-TasteRCNN   
+Fast RCNN   
 1、输入图片和候选框   
 2、生成一个conv  feature map   
 3、对每个BBox,生成a fix-length feature vector   
